@@ -1,6 +1,7 @@
 <?php
 
-echo "Hello World abuharis testing.testsajdjkadajk"
+echo "It is my first page <br>\n";
+echo "ok!";
 
 
 ?>
